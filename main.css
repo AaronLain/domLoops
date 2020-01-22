@@ -2,3 +2,12 @@ body {
     background-color: tomato;
     color: darkturquoise;
 }
+
+#dino-barn {
+    display: flex;
+}
+
+.dinosaur {
+    border: 3px solid turquoise;
+    margin: 5px;
+}
